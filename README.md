@@ -56,11 +56,10 @@ Ein kleines JS script für die Arbeit um den Bearbeitungsprozess zu vereinfachen
 - Contains ** textarea ** with predefined text
 - Price ISK
 
-! [alt text] (https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/Wilk86/JS-web-Scraper/blob/master/images/web1script.jpg)
 
 
 2: Extract the item number from the web Shop:
 - Item number
 
-
-! [alt text] (https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/Wilk86/JS-web-Scraper/blob/master/images/web2script.jpg)
