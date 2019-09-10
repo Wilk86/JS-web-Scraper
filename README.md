@@ -21,14 +21,14 @@ Ein kleines JS script für die Arbeit um den Bearbeitungsprozess zu vereinfachen
 - Enthaltet **textarea** mit vordefinierten Text 
 - Preis ISK
 
-![alt text](https://github.com/Wilk86/JS-web-Scraper/images/web1script.jpg)
+![alt text](https://github.com/Wilk86/JS-web-Scraper/blob/master/images/web1script.jpg)
 
 
 2: Extrahiert die Artikelnummer aus den web Shop: 
 - Artikelnummer 
 
 
-![alt text](https://github.com/Wilk86/JS-web-Scraper/images/web2script.jpg)
+![alt text](https://github.com/Wilk86/JS-web-Scraper/blob/master/images/web2script.jpg)
 
 ---
 
